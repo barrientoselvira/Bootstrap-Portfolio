@@ -1,0 +1,105 @@
+
+
+#name {
+    padding: 10px;
+    color: black;
+    font-family: 'Playfair Display', serif;
+    font-size: 28px;
+
+}
+
+a {
+    margin-top: 10px;
+    color: black;
+}
+
+a: hover {
+    color: blue;
+}
+
+.jumbotron {
+    height: 400px;
+    width: 100%;
+    background-image: url("../images/arts-build-close-up-273230.jpg");
+    background-size: cover;
+}
+
+.lead {
+    color: white;
+    font-size: 32px;
+    font-family: 'Playfair Display', serif;
+
+}
+
+h1 {
+    border-bottom: 1px solid gray;
+    margin-left: 70px;
+    font-family: 'Playfair Display', serif;
+    margin-top: 20px;
+}
+
+
+.panel-body {
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 20px;
+
+}
+
+.fixed-bottom {
+    font-size: 12px;
+    color: black;
+    align-content: center;
+    font-family: 'Playfair Display', serif;
+    margin-top: 50px;
+
+}
+
+#portfolio {
+    font-family: 'Playfair Display', serif;
+    margin-top: 50px;
+    font-size: 24px;
+    border-bottom: 1px solid gray;
+}
+
+.thumbnail{
+    padding: 20px;
+    color: black;
+    text-align: center;
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+#contactme {
+    border-bottom: 1px solid gray;
+    padding: 20px;
+    font-size: 24px;
+    color: black;
+    font-family: 'Playfair Display', serif;
+
+}
+
+
+.form-group {
+    font-family: 'Playfair Display', serif;
+    margin-top: 100px;
+    color: white;
+    background-image: url("../images/arts-build-close-up-273230.jpg");
+    background-size: cover;
+    padding: 40px;
+}
+
+.btn {
+    font-family: 'Playfair Display', serif;
+
+    margin-left: 50px;
+    background-color: transparent;
+    color: black;
+}
+
+.btn: hover{
+    color: white;
+}
