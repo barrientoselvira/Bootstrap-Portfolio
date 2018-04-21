@@ -94,7 +94,6 @@ h1 {
 
 .btn {
     font-family: 'Playfair Display', serif;
-
     margin-left: 50px;
     background-color: transparent;
     color: black;
@@ -102,4 +101,10 @@ h1 {
 
 .btn: hover{
     color: white;
+}
+
+.Hangman {
+    width: 295px;
+   height: 230px;
+  
 }
