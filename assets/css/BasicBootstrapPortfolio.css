@@ -106,5 +106,9 @@ h1 {
 .Hangman {
     width: 295px;
    height: 230px;
-  
+}
+
+.rpgGame{
+    width: 295px;
+    height: 230px; 
 }
